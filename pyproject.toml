@@ -2,10 +2,10 @@
 name = "pythonic-garage-band"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["seswaram"]
 
 [tool.poetry.dependencies]
-python = "^2.7"
+python = "^3.7.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
